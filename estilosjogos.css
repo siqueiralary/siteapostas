@@ -1,0 +1,33 @@
+body {
+    
+    background-image: url(foto1.jpg);
+    color: white;
+    font-size: x-large;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }   
+
+.coluna1 {
+    flex-direction: row;
+    display: flex;
+  justify-content:space-evenly;
+
+
+  
+   
+}
+
+.coluna2{
+    flex-direction: row;
+    display: flex;
+    align-items:flex-start ;
+   justify-content:space-evenly;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(93, 119, 34);
+    
+}
+
